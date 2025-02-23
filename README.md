@@ -116,14 +116,10 @@ python racao.py
 
 ```
 Composição da Ração Diária para Vaca Leiteira:
-         alimento  quantidade_kg  custo
-0  Silagem de Milho          8.50   6.80
-1    Feno de Tifton          4.00   4.80
-2   Farelo de Soja          3.50  12.25
-3    Milho Moído           3.20   6.40
-4        Minerais          0.80   3.20
+           alimento  quantidade_kg  custo
+0  Silagem de Milho           20.0   16.0
 
-Custo Total da Ração Diária: R$ 33.45
+Custo Total da Ração Diária: R$ 16.00
 ```
 
 ## Personalização
